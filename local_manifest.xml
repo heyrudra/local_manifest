@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
 <remote  name="GODz-Android-Dev"
@@ -6,6 +6,6 @@
 
 <project path="vendor/micromax/a106" name="proprietary_vendor_micromax" remote="GODz-Android-Dev" revision="lineage-14.1" />
 <project path="kernel/micromax/a106" name="DareDevil_a106" remote="GODz-Android-Dev" revision="cm-14.1" />
-<project path="device/micromax/a106" name="android_device_micromax_a106" remote="GODz-Android-Dev" revision="lineage-14.1" />
+<project path="device/micromax/a106" name="android_device_micromax_a106" remote="GODz-Android-Dev" revision="aosp-7.x" />
 
 </manifest>
